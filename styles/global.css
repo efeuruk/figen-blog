@@ -8,6 +8,11 @@ body {
   font-size: 18px;
 }
 
+.darkTheme {
+  background-color: black;
+  color: white;
+}
+
 * {
   box-sizing: border-box;
 }

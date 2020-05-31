@@ -1,0 +1,10 @@
+.container {
+    width: calc(25% - 10px);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.instagram {
+    color: black;
+    font-size: 20px;
+}
