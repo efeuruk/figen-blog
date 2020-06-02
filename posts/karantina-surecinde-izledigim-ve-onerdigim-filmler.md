@@ -34,6 +34,6 @@ Siz izlemeden söyleyeyim, filmde sürekli "Bold Pilot geliyor" lafını binlerc
 
 Puanım: 9/10
 
-## Lucy - 2020 - Aksiyon
+## Extraction - 2020 - Aksiyon
 
 ![alt text](https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg)

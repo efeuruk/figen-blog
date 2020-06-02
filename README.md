@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This repository is for a blog website for Figen Sayılı, bootstraped with Next.js
